@@ -7,5 +7,7 @@
 - Reason: Known for practical business advice
 
 ## Alex Berman
+- YouTube: https://www.youtube.com/@AlexBerman
+- LinkedIn: https://www.linkedin.com/in/alexanderberman
 - Focus: Cold email, lead generation
 - Reason: Strong expertise in outbound marketing
