@@ -1,6 +1,12 @@
 [
   {
     "expert": "Alex Hormozi",
+    "title": "There's Always 1 Constraint",
+    "link": "https://www.youtube.com/shorts/Z1tOBULRiIQ",
+    "published": "2026-05-21T11:00:05.000Z"
+  },
+  {
+    "expert": "Alex Hormozi",
     "title": "Give 2 Options When You Close",
     "link": "https://www.youtube.com/shorts/k4mDTwxIfYE",
     "published": "2026-05-21T09:00:11.000Z"
@@ -12,10 +18,10 @@
     "published": "2026-05-21T07:00:39.000Z"
   },
   {
-    "expert": "Alex Hormozi",
-    "title": "4 Ways To Influence People",
-    "link": "https://www.youtube.com/shorts/zQvXS0vv3Ck",
-    "published": "2026-05-21T05:00:15.000Z"
+    "expert": "Alex Berman",
+    "title": "Best ZoomInfo Alternative (2026)",
+    "link": "https://www.youtube.com/watch?v=Wzcr5kBE5oI",
+    "published": "2026-05-21T12:15:05.000Z"
   },
   {
     "expert": "Alex Berman",
@@ -28,12 +34,6 @@
     "title": "Best Cold Email Subject Lines to Skyrocket Your Open Rates",
     "link": "https://www.youtube.com/watch?v=BASMa1apk-I",
     "published": "2026-05-19T13:14:18.000Z"
-  },
-  {
-    "expert": "Alex Berman",
-    "title": "Freelance Niche Finder",
-    "link": "https://www.youtube.com/watch?v=H2kMa2UQKqY",
-    "published": "2026-05-18T14:45:01.000Z"
   },
   {
     "expert": "Josh Braun",
@@ -52,5 +52,41 @@
     "title": "\"What do you sell?\" How to Respond",
     "link": "https://www.youtube.com/watch?v=_gnog7udq7A",
     "published": "2026-03-21T18:11:43.000Z"
+  },
+  {
+    "expert": "Patrick Dang",
+    "title": "How I Built a Content Creation + Claude Design Team (1-Person Business)",
+    "link": "https://www.youtube.com/watch?v=kT5i_CLVZ3A",
+    "published": "2026-05-19T14:00:09.000Z"
+  },
+  {
+    "expert": "Patrick Dang",
+    "title": "Beginners Guide To Making Money with Claude AI (1-Person Business)",
+    "link": "https://www.youtube.com/watch?v=TP9lJvE87Zg",
+    "published": "2026-05-12T14:00:42.000Z"
+  },
+  {
+    "expert": "Patrick Dang",
+    "title": "How I'd Use Claude AI to Build a Premium Personal Brand (1-Person Business)",
+    "link": "https://www.youtube.com/watch?v=4lbl9MtKUF8",
+    "published": "2026-05-06T13:00:10.000Z"
+  },
+  {
+    "expert": "Dan Martell",
+    "title": "Learn 97% of Claude in Under 16 Minutes",
+    "link": "https://www.youtube.com/watch?v=wZeOwqmSw84",
+    "published": "2026-05-21T13:01:30.000Z"
+  },
+  {
+    "expert": "Dan Martell",
+    "title": "Does fitness impact your bank account?",
+    "link": "https://www.youtube.com/shorts/24Nt7cdfoM4",
+    "published": "2026-05-21T01:30:23.000Z"
+  },
+  {
+    "expert": "Dan Martell",
+    "title": "How to lose money in 2026",
+    "link": "https://www.youtube.com/shorts/tLki5HJ9bco",
+    "published": "2026-05-21T01:01:04.000Z"
   }
 ]
